@@ -20,4 +20,3 @@ RSpec.configure do |config|
   end
   Capybara.app = RPS
 end
-
